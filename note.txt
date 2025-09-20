@@ -1,3 +1,6 @@
 - Git giúp quản lý phiên bản dễ dàng hơn.
 - Git hỗ trợ làm việc nhóm hiệu quả.
 - Git rất phổ biến trong phát triển phần mềm.
+- Git hỗ trợ làm việc offline.
+- Git giúp theo dõi lịch sử thay đổi chi tiết.
+

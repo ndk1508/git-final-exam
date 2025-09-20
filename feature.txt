@@ -1,0 +1,5 @@
+Tính năng: Quản lý ghi chú học tập
+- Cho phép tạo ghi chú nhanh.
+- Hỗ trợ chỉnh sửa ghi chú.
+- Lưu tự động khi nhập.
+- Hiển thị theo từng ngày học.

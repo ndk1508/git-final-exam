@@ -10,4 +10,8 @@
 
 Ngày bắt đầu: 21/09/2025  
 Ngày kết thúc: 27/09/2025
+- Ôn lại kiến thức Python.
+- Thực hành thêm với SQL.
+- Đọc sách về thiết kế phần mềm.
+- Viết blog chia sẻ về học tập.
 
